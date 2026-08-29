@@ -57,8 +57,9 @@ These features are planned to be implemented as the modular backend monolith mat
 
 ## 📸 Screenshots
 
-*Below is a placeholder section for frontend screens, backend DRF browsable API views, and terminal testing logs:*
-
+![Image 1](./assets/image1.png)
+![Image 2](./assets/image%20copy.png)
+![Image 3](./assets/image%20copy%202.png)
 ### Django REST Framework Browsable API
 ![Browsable API Placeholder](https://raw.githubusercontent.com/django/django/main/docs/_static/logo.png)
 *(Run your local server and navigate to `http://localhost:8000/api/v1/` to interact with the API directly in your browser)*
