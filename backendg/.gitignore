@@ -1,0 +1,16 @@
+.env
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test
+*.test
+coverage.out
+
+# IDE
+.vscode/
+.idea/
